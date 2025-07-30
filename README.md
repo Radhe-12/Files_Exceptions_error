@@ -21,3 +21,31 @@ line 2: It contain multiple file
 
 #### ✅ If `sample.txt` does not exists:
 error: File 'sample.txt' not found
+
+
+
+---
+
+## ✍️ Task 2: Write and Append Data to a File
+
+**Filename:** `task2_write_append.py`
+
+### 🔹 Functionality:
+- Takes user input and writes it to `output.txt`.
+- Prompts for additional input to append to the same file.
+- Displays the final contents of the file.
+
+### 💻 Example Output:
+
+Enter text to write to the file: Hello, Python!
+
+Data successfully written in the output.txt.
+
+Enter additional text to append: Learning file handling in Python.
+
+Data successfully appended.
+
+Final content of output.txt:
+
+Hello, Python!
+Learning file handling in Python.
