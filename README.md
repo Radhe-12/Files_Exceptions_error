@@ -17,6 +17,7 @@ This repository contains two Python scripts that demonstrate file handling using
 
 #### ✅ If `sample.txt` exists:
 Line 1: this is the sample text file.
+
 line 2: It contain multiple file
 
 #### ✅ If `sample.txt` does not exists:
