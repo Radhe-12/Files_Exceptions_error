@@ -49,4 +49,5 @@ Data successfully appended.
 Final content of output.txt:
 
 Hello, Python!
+
 Learning file handling in Python.
